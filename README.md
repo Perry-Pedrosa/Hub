@@ -1,4 +1,4 @@
-# Data Analyst 
+# Perry Pedrosa
 
 ### Education
 - HNC Data Analysis
