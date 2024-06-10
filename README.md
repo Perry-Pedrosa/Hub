@@ -5,7 +5,7 @@
 - BSc Data Science *Current*
 
 ### Work Experience
-Ageas: Risk Management, Data Analysis
+- Ageas: Risk Management, Data Analysis
 
 ### Projects
 - Carbon Emissions Review *WBP*
