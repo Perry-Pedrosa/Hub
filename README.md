@@ -1,7 +1,7 @@
-# Perry Pedrosa
+# **Perry Pedrosa**
 ![Perry Pedrosa](https://github.com/Perry-Pedrosa/Project-Portfolio/blob/main/Screenshot_20230124-125544_Instagram.jpg)
-### Statistical Mountaineer
-### Traversing Data For Answers
+### *Statistical Mountaineer*
+### *Traversing Data For Answers*
 
 
 ## About Me
