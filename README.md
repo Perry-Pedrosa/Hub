@@ -1,4 +1,4 @@
-<img src="assets/images/Screenshot_20230124-125544_Instagram.jpg" alt="My Portfolio Screenshot" width=50% height=50%>
+![Perry Pedrosa](assets/images/Screenshot_20230124-125544_Instagram.jpg)
 
 ### *Statistical Mountaineer*
 ### *Traversing Data For Answers*
