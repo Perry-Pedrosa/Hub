@@ -1,4 +1,4 @@
-<img src="https://github.com/Perry-Pedrosa/Project-Portfolio/blob/main/Screenshot_20230124-125544_Instagram.jpg" width=50% height=50%>
+<img src="assets/images/Screenshot_20230124-125544_Instagram.jpg" alt="My Portfolio Screenshot" width=50% height=50%>
 
 ### *Statistical Mountaineer*
 ### *Traversing Data For Answers*
