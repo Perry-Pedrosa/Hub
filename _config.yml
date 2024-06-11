@@ -1,5 +1,5 @@
 title: Perry Pedrosa
-Logo: <img src="assets/images/Screenshot_20230124-125544_Instagram.jpg" alt="My Portfolio Screenshot" width=50% height=50%>
+Logo: ![Perry Pedrosa](assets/images/Screenshot_20230124-125544_Instagram.jpg)
 #Description:
 show_downloads: true
 theme: jekyll-theme-cayman
