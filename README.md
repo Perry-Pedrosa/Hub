@@ -1,4 +1,4 @@
-![Perry Pedrosa](assets/images/Screenshot_20230124-125544_Instagram.jpg)
+![Perry Pedrosa](assets/Screenshot_20230124-125544_Instagram.jpg)
 
 ### *Statistical Mountaineer*
 ### *Traversing Data For Answers*
