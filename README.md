@@ -1,7 +1,9 @@
 ![Perry Pedrosa](assets/Screenshot_20230124-125544_Instagram.jpg)
 
+##*Statistics Are The Grammar Of Science - Karl Pearson*
 ### *Statistical Mountaineer*
 ### *Traversing Data For Answers*
+
 
 
 ## About Me
