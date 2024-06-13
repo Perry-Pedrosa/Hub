@@ -22,5 +22,5 @@ My skills are ever evolving but these are the skills I have ATLEAST a basic know
 - Claims Volume Volatility Analysis 
 
 ## Current Projects
-Analysis of RAS Metrics v NFL Proficiancy & Success
+[Analysis of RAS Metrics v NFL Proficiancy & Success](https://github.com/Perry-Pedrosa/RASanalysis)
 ![Combine](assets/1209327655.jpg.0.jpg)
