@@ -10,8 +10,22 @@
 Hi, I'm Perry and I, like you, have a passion for data. 
 My journey into the world of data began when I was still working in Risk Management which was a business area that had no interest in finding out where problems lied through data and chose to instead use subject matter experts.. although both have their place, using data can take you so much further in terms of deep dives and visualisations. 
 
-From there, I enrolled onto a work based apprenticeship for Data Analysis which gave me a Higher National Certificate (HNC) and I am now studying for my BSc in Data Science.
-Aside from work based projects I am interested to using the skills I build in the space of Sports (specifically American Football) and Wildlife Conservation analysis in the hopes that my passion can contribute to these industries.
+### Educaton
+
+**Level 4 HNC Data Analysis (2020-2022)**
+
+**Level 6 BSc Data Science (*Ongoing*)**
+
+Ongoing Module Grades:
+**Data Infrastructure, Tools & Governance** - Merit
+
+**Data Analysis, Statistics, Modelling** - Merit
+
+**Data Engineering** - Merit
+
+**Data Visualisation & Dashboards** - Distinction
+
+I am interested in furthering these skills I build in the space of Sports (specifically American Football), Wildlife Conservation and Theoretical Science analysis in the hopes that my passion can contribute to these industries.
 
 ## What Can I do?
 My skills are ever evolving but these are the skills I have ATLEAST a basic knowedlege of, denoted by emoji..
